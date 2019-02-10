@@ -69,3 +69,6 @@ All of the configuration for this project gets stored in the settings.json file.
 If you want to contribute... awesome... I have a lot of ideas for this project, but very little time. So any help will be greately appreciated. Open a pull request, or contact me. My biggest desire is to add integration for Youtube and gmail, but when this will happen is unknown.
 
 The project is currently licensed under the MIT license. 
+
+You may get some more information over on Hackaday:
+https://hackaday.io/project/163831-roli-tweet-printer
