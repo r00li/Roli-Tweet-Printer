@@ -59,7 +59,7 @@ When asked for authentication enter :
     username: printer
     password: printer
 
-After that you should enter your printers PID and VID values into the web interface and configuring your services. How to do this should be explained in the actual web interface itself. This should be it. I may have forgotten something in which case please let me know.
+After that you should enter your printers PID and VID values into the web interface and continue with configuring your services. How to do this is clearly written in the actual web interface itself. This should be it. I may have forgotten something in which case please let me know.
 
 ## Troubleshooting, configuring and contributing
 If any of this didn't work please look at the errors that are returned and try doing some googling. If that fails please open a new issue here and I will try to help. 
