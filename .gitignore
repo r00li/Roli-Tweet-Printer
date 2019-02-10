@@ -102,3 +102,11 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+roliPrinter/.idea/workspace.xml
+
+roliPrinter/.idea/misc.xml
+
+roliPrinter/.idea/modules.xml
+
+roliPrinter/.idea/roliPrinter.iml

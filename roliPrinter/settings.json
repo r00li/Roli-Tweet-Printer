@@ -1,0 +1,8 @@
+{
+    "global": {
+        "printerUSBPid": 1046,
+        "settingsUsername": "printer",
+        "printerUSBVid": 20497,
+        "settingsPassword": "printer"
+    }
+}
