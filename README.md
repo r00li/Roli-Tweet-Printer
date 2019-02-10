@@ -3,17 +3,22 @@ A Python application for interfacing Twitter (and Reddit) with a cheap POS print
 
 ## Images
 *Thing in action:*
+
 ![Tweet printer in action](https://user-images.githubusercontent.com/2136711/52536917-e7c3f400-2d60-11e9-94f5-8779e0c31cf4.JPG)
 
 *The resulting print:*
+
 ![Example of stuff printed](https://user-images.githubusercontent.com/2136711/52536939-235ebe00-2d61-11e9-9d23-8f842d1da57b.JPG)
 
 *Simple configuration web interface:*
+
 ![Simple web interface for configuration](https://user-images.githubusercontent.com/2136711/52536712-7125f700-2d5e-11e9-890a-e8620df19104.png)
+
 ## Features and stuff:
 This was a quick afternoon project that I created just for fun because I had a cheap Chinese POS printer laying around (I bought it just for fun) and I wanted to do something with it. And I actually had a need to follow a specific Twitter account so I wouldn't miss some important events. So this project was born. But as always I over-engineered it a bit, so it has way more features than what I initially planned.
 
 **Features:**
+
  - Printing Tweets from your favourite accounts (including images and quotes)
  - Printing of messages in your Reddit inbox
  - Print custom text (for notes or similar)
@@ -27,6 +32,7 @@ I am using a Chinese ZJ-5890 thermal printer (it's a standard 58mm thermal recei
 As for a computer running linux... Anything should work really. I recommend Raspberry Pi Zero or similar. But I am running an ACME Systems Arietta G25 because I had one laying around and had no better use for it.
 
 **Software needed:**
+
 This was originally written back in 2017 so don't expect everything to be up to date. Though I did update all of the required libraries in February 2019 and everything still seems to work. Next to the libraries I have written which versions I am currently using to test this. New versions will probably work, but I can't make any promises. Also don't expect the code to be perfect. I am not a professional Python programmer.
 
 This is written in Python, so installing dependencies should be pretty easy. Install python, install pip and then just `pip install` the required libraries. At least that's the theory.
@@ -39,6 +45,7 @@ This is written in Python, so installing dependencies should be pretty easy. Ins
  - [Requests](https://github.com/kennethreitz/requests) (2.16.5) [HTTP Client]
 
 **Setup:**
+
 After you are done installing the libraries, download this project, navigate to the `roliPrinter` directory and run:
 
     python3 roliPrinter.py
